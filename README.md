@@ -1,4 +1,5 @@
 🎓 Student Manager
+
 Introducción
 Student Manager no es simplemente una aplicación CRUD.
 Es la materialización de una visión educativa orientada al orden, la eficiencia y la transformación.
