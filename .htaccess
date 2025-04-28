@@ -1,0 +1,11 @@
+# Habilitar el RewriteEngine
+RewriteEngine On
+
+# Establecer la carpeta base (ajustar si tu app no está en la raíz del servidor)
+RewriteBase /crud-app/public/
+
+# Redirigir todas las solicitudes que no sean archivos o carpetas reales a index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+
