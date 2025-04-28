@@ -35,6 +35,7 @@ Una experiencia intuitiva y rápida, pensada para facilitar la administración e
 Una arquitectura modular y escalable, lista para nuevas funciones (como asignación de estudiantes a cursos, reportes, entre otros).
 
 Funcionalidades
+
 🧑‍🎓 Sección de Estudiantes:
 
 Formulario para agregar nuevos estudiantes.
